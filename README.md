@@ -1,2 +1,2 @@
 # Netflix-Movie-recommendation-system
-Netflix movie recommendation ystem using cosine similarity
+Netflix movie recommendation system using cosine similarity
